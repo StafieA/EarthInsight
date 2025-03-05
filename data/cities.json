@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Bucharest",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-03-05T13:29:10.246Z",
+      "notes": "The Best in Europe",
+      "position": {
+        "lat": "44.42279355747629",
+        "lng": "26.115643664026226"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Alba Iulia",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2025-03-05T13:31:24.458Z",
+      "notes": "adfsf",
+      "position": {
+        "lat": "46.02687757725821",
+        "lng": "23.56566456492044"
+      },
+      "id": 98443199
     }
   ]
 }
